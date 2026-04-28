@@ -1,0 +1,17 @@
+streamlit
+pymupdf
+chromadb
+sentence-transformers
+transformers
+torch
+langchain
+langchain-community
+langchain-text-splitters
+numpy
+pillow
+regex
+pyyaml
+python-dotenv
+networkx
+tqdm
+scikit-learn
